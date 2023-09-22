@@ -1,0 +1,18 @@
+.container {
+    border: 2px solid black;
+    margin: 30px;
+    background-color: rgb(168, 168, 168);
+    border-radius: 25px;
+    text-align: center;
+}
+
+.item img {
+    height: 150px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.item p {
+    font-size: 17px;
+    font-weight: 550;
+}
